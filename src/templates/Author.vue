@@ -63,6 +63,7 @@
   query($id: ID!, $page:Int) {
     author(id: $id) {
       name
+      path
       bio
       image
       facebook

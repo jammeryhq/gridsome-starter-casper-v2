@@ -13,7 +13,7 @@ module.exports = {
         purgeConfig: {},
         presetEnvConfig: {},
         shouldPurge: true,
-        shouldImport: true,
+        shouldImport: false,
         shouldTimeTravel: true,
         shouldPurgeUnusedKeyframes: true,
       }

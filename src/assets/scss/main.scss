@@ -19,6 +19,7 @@ pre {
   @apply border-l-gray-500;
   @apply pl-4;
   @apply text-base;
+  @apply overflow-x-auto;
 }
 
 :not(pre)>code {
